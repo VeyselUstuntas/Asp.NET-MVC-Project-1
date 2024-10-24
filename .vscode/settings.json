@@ -4,5 +4,6 @@
     "terminal.integrated.fontSize": 14,
     "chat.editor.fontSize": 16,
     "markdown.preview.fontSize": 16,
-    "window.zoomLevel": 0.2
+    "window.zoomLevel": 0.2,
+    "workbench.colorTheme": "Default Dark+",
 }
