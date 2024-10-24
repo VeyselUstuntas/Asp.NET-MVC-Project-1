@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "740Z/les/GQbUhg2otK5sl7O132gq6QheYW7TGVsuN1YNJ+lXMkvjTOytmTd/RsdowKdb3Uvgeh0oRlTNEQ0mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veysel\\Desktop\\MVC\\BtkAkademi\\BtkAkademi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veysel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\veysel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\veysel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\veysel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
