@@ -1,3 +1,4 @@
+using BtkAkademi.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BtkAkademi.Controllers
@@ -13,6 +14,12 @@ namespace BtkAkademi.Controllers
         {
             return View();
         }
-    }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Apply(Candidate model)
+        {
+            return View(); 
+        }
+    }
 }
